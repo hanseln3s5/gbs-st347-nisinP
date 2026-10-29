@@ -1,0 +1,83 @@
+GCA_034336205.1	-/Ia	-	mef(A) msr(D) tet(M)
+GCA_034335355.1	-/Ia	-	tet(M)
+GCA_034335405.1	-/Ia	-	tet(M)
+GCA_034336525.1	1/II	-	erm(A) tet(M)
+GCA_034336785.1	1/II	-	lnu(C) tet(M)
+GCA_034335465.1	1/II	-	tet(M)
+GCA_034335605.1	1/II	-	tet(M)
+GCA_034336125.1	1/II	-	tet(M)
+GCA_034336405.1	1/II	-	tet(M)
+GCA_034335505.1	1/Ib	-	tet(M)
+GCA_034335945.1	1/Ib	-	tet(M)
+GCA_034336485.1	1/Ib	-	tet(M)
+GCA_034337035.1	1/Ib	-	tet(M)
+GCA_034335665.1	1/V	-	erm(A) tet(M)
+GCA_034335325.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335345.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335445.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335565.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335775.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335845.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034335925.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336005.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336015.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336465.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336585.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336605.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336625.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336905.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCF_060278425.1	1010/IV	-	aac(6')-Ie/aph(2'')-Ia
+GCA_034336725.1	12/Ib	-	mef(J) msr(I) tet(M)
+GCA_034335305.1	144/Ia	-	tet(M)
+GCA_034335545.1	17/III	-	tet(M)
+GCA_034335585.1	17/III	-	tet(M)
+GCA_034335825.1	17/III	-	tet(M)
+GCA_034335865.1	17/III	-	tet(M)
+GCA_034335965.1	17/III	-	tet(M)
+GCA_034336225.1	17/III	-	tet(M)
+GCA_034336305.1	17/III	-	tet(M)
+GCA_034336385.1	17/III	-	tet(M)
+GCA_034336425.1	17/III	-	tet(M)
+GCA_034336765.1	17/III	-	tet(M)
+GCA_034336845.1	17/III	-	tet(M)
+GCA_034336885.1	17/III	-	tet(M)
+GCA_034335685.1	19/III	-	ant(6)-Ia aph(3')-IIIa erm(B) tet(M)
+GCA_034336865.1	19/III	-	arsA arsD arsR tet(M)
+GCA_034335885.1	19/V	nisP	erm(B) erm(T) tet(O)
+GCA_034336145.1	19/V	nisP	erm(B) erm(T) tet(O)
+GCA_034336705.1	19/V	nisP	erm(B) erm(T) tet(O)
+GCA_034336925.1	19/V	nisP	erm(B) erm(T) tet(O)
+GCA_034335625.1	19/V	nisP	erm(B) tet(M) tet(O)
+GCA_034335525.1	2113/Ia	-	tet(M)
+GCA_034336745.1	2115/II	-	ant(6)-Ia aph(3')-IIIa lnu(B) lsa lsa(E) sat4 spw tet(M)
+GCA_034336975.1	2116/II	nisP	erm(B) mef(J) msr(I) tet(O)
+GCA_034335745.1	23/Ia	-	mef(A) msr(D) tet(M)
+GCA_034335985.1	23/Ia	-	mef(A) msr(D) tet(M)
+GCA_034336945.1	23/Ia	-	mef(A) msr(D) tet(M)
+GCA_034335645.1	23/Ia	-	tet(M)
+GCA_034336065.1	23/Ia	-	tet(M)
+GCA_034336265.1	23/Ia	-	tet(M)
+GCA_034336365.1	23/Ia	-	tet(M)
+GCA_034336505.1	24/II	-	tet(M)
+GCA_034335485.1	24/V	-	tet(M)
+GCA_034336245.1	24/V	-	tet(M)
+GCA_034335735.1	26/V	-	tet(M)
+GCA_034335795.1	28/II	-	arsA arsD arsR mef(A) msr(D) tet(M)
+GCA_034336345.1	28/II	-	arsA arsD arsR mef(A) msr(D) tet(M)
+GCA_034336445.1	28/II	-	arsA arsD arsR qacC tet(M)
+GCA_034335705.1	28/II	nisP	erm(B) tet(O)
+GCA_034336085.1	28/II	nisP	erm(B) tet(O)
+GCA_034336675.1	347/II	nisP	ant(6)-Ia erm(B) mef(J) msr(I) tet(O)
+GCA_034335425.1	347/II	nisP	erm(B) mef(J) msr(I) tet(O)
+GCA_034336825.1	347/II	nisP	erm(B) mef(J) msr(I) tet(O)
+GCA_034336185.1	498/Ib	-	tet(M)
+GCA_034336285.1	498/Ib	-	tet(M)
+GCA_034336565.1	498/Ib	nisP	erm(B) tet(M) tet(O)
+GCA_034335385.1	498/V	-	tet(M)
+GCA_034336105.1	498/V	-	tet(M)
+GCA_034336165.1	498/V	-	tet(M)
+GCA_034336545.1	498/V	-	tet(M)
+GCA_034336325.1	651/III	-	ant(6)-Ia erm(B) lnu(B) lsa(E) spw tet(S)
+GCA_034336045.1	8/Ib	-	tet(M)
+GCA_034336805.1	860/III	-	mef(A) msr(D) tet(M)
+GCA_034335905.1	890/V	-	ant(6)-Ia aph(3')-IIIa erm(B) tet(M)
