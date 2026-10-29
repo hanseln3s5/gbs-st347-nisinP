@@ -152,8 +152,7 @@ Derived data (`data/`) and figures under CC BY 4.0; see `LICENSE-DATA`.
 
 ## Citing
 
-See `CITATION.cff`. On release, this repository is archived on Zenodo and the
-release DOI is the one to cite for the code.
+See `CITATION.cff`. 
 
 ## Reproducibility notes
 
