@@ -1,0 +1,9 @@
+The derived data tables in data/ and the figures in figures/ are released under
+the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+The code in scripts/ and pipeline/ is released under the MIT licence; see LICENSE.
+
+The 83 comparison genomes are public assemblies from BioProject PRJNA945321
+(Laycock et al. 2023) and are not redistributed here. data/accessions.txt lists
+their accessions so they can be downloaded from NCBI.

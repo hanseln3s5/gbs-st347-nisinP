@@ -1,0 +1,39 @@
+{
+  "title": "Code and derived data for a closed genome of Streptococcus agalactiae ST347/II carrying a composite integrative element with nisin P biosynthesis, erm(B) and tet(O)",
+  "description": "<p>Pipeline, analysis scripts and derived data tables for the characterisation of a closed <i>Streptococcus agalactiae</i> ST347/II genome from the Dominican Republic, and for the screen of 83 public Dominican group B <i>Streptococcus</i> genomes for the nisin P biosynthetic operon and its associated resistance determinants.</p><p>Code is released under the MIT licence; derived data tables and figures under CC BY 4.0. Raw reads and the assembly are deposited separately in the SRA and GenBank. The 83 comparison genomes are public assemblies from BioProject PRJNA945321 and are listed by accession rather than redistributed.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "García-Encarnación, Leslys",
+      "affiliation": "Instituto Especializado de Estudios Superiores Loyola"
+    },
+    {
+      "name": "De La Cruz-Caminero, Dolinsky Segundo",
+      "affiliation": "Instituto Especializado de Estudios Superiores Loyola"
+    },
+    {
+      "name": "López-Chevalier, Hansel B.",
+      "affiliation": "Instituto Especializado de Estudios Superiores Loyola"
+    }
+  ],
+  "keywords": [
+    "Streptococcus agalactiae",
+    "group B Streptococcus",
+    "nisin P",
+    "lantibiotic",
+    "integrative conjugative element",
+    "antimicrobial resistance",
+    "Oxford Nanopore",
+    "Dominican Republic"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA945321",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ]
+}

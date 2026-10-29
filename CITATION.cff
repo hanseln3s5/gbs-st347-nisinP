@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: >-
+  Code and derived data for a closed genome of Streptococcus agalactiae
+  ST347/II carrying a composite integrative element with nisin P biosynthesis,
+  erm(B) and tet(O)
+message: >-
+  If you use this software or the derived data, please cite both the
+  repository (via its Zenodo release DOI) and the associated preprint.
+type: software
+authors:
+  - family-names: García-Encarnación
+    given-names: Leslys
+    affiliation: Instituto Especializado de Estudios Superiores Loyola
+  - family-names: De La Cruz-Caminero
+    given-names: Dolinsky Segundo
+    affiliation: Instituto Especializado de Estudios Superiores Loyola
+  - family-names: López-Chevalier
+    given-names: Hansel B.
+    affiliation: Instituto Especializado de Estudios Superiores Loyola
+    email: hlopez@ipl.edu.do
+license: MIT
+repository-code: 'https://github.com/REPLACE-ME/gbs-st347-nisinP'
+keywords:
+  - Streptococcus agalactiae
+  - group B Streptococcus
+  - nisin P
+  - lantibiotic
+  - integrative conjugative element
+  - antimicrobial resistance
+  - Oxford Nanopore
+  - Dominican Republic
+preferred-citation:
+  type: article
+  title: >-
+    A closed genome of Streptococcus agalactiae ST347/II reveals a composite
+    integrative element coupling nisin P biosynthesis to erm(B) and tet(O) in
+    Dominican group B Streptococcus
+  authors:
+    - family-names: García-Encarnación
+      given-names: Leslys
+    - family-names: De La Cruz-Caminero
+      given-names: Dolinsky Segundo
+    - family-names: López-Chevalier
+      given-names: Hansel B.
+  year: 2026
+  journal: bioRxiv
+  doi: 'PENDING'

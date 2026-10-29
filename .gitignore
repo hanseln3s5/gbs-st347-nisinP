@@ -1,0 +1,29 @@
+# datos crudos y pesados: no van al repositorio
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bam.bai
+*.sam
+*.delta
+*.fasta
+*.fa
+*.fna
+*.gbff
+flye/
+bakta_*/
+genomad_*/
+antismash_*/
+blastdb/
+dr_genomes/
+GBS-SBG/
+
+# resultados regenerables
+results/*
+!results/.gitkeep
+
+# sistema
+__pycache__/
+*.pyc
+.DS_Store
