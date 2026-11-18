@@ -6,7 +6,7 @@ Code and derived data for the manuscript:
 > *A closed genome of Streptococcus agalactiae ST347/II reveals a composite
 > integrative element coupling nisin P biosynthesis to erm(B) and tet(O) in
 > Dominican group B Streptococcus.* Preprint, 2026.
-> doi: **[PENDING — bioRxiv DOI]**
+> doi: **https://doi.org/10.64898/2026.10.29.762887**
 
 Correspondence: Hansel B. López-Chevalier (hlopez@ipl.edu.do), Instituto
 Especializado de Estudios Superiores Loyola, San Cristóbal, Dominican Republic.
@@ -135,8 +135,8 @@ pool reproduces the observed difference in read N50.
 
 | What | Where |
 |---|---|
-| Raw reads (two runs, one BioSample) | SRA — **[PENDING accession]** |
-| Closed assembly | GenBank — **[PENDING accession]** |
+| Raw reads (two runs, one BioSample) | SRA — **XXXXX** |
+| Closed assembly | GenBank — **XXXXXX** |
 | 83 comparison genomes | BioProject **PRJNA945321** (Laycock et al. 2023); accessions in `data/accessions.txt` |
 | Derived tables | `data/` in this repository |
 
